@@ -3,6 +3,8 @@
 //#Info: curly
 if (foo) foo++;
 
+if(foo) foo++;
+
 //#Info: curly
 if (foo)
   foo++;
