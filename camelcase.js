@@ -4,7 +4,9 @@
 var my_favorite_color = "#112C85";
 
 //#Info: camelcase
-function do_something() {  
+function do_something() {
+ var bla = 123;
+  var Bla = 1234;  
 }
 
 //#Info: camelcase
